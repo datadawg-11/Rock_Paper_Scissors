@@ -1,0 +1,38 @@
+body { 
+background-image: url('sofaPhoto.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+h1 {
+    font-weight: bold;
+    color: red;
+    font-size: 100px;
+    text-align: center;
+  }
+  
+
+.selection {
+    text-align: center
+}
+
+.container {
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    padding-top: 100px;
+    color: greenyellow;
+
+}
+
+
+
+.btns {
+    /* font-size: 10px;/ */
+    height:100px;
+    width:100px;
+    text-align: center;
+
+}
